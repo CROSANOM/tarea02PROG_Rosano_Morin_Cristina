@@ -31,6 +31,7 @@ public class numeroConstruido {
 		System.out.println(restoNumero);// imprime 310
 		System.out.print("el numero que hemos construido es  " + ultimoNumero + restoNumero);
 		System.out.println("Hola es una prueba");
+		
 
 		// TODO Auto-generated method stub
 
